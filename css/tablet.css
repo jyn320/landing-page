@@ -1,0 +1,18 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #545454;
+}
+
+h1, h2, h3 {
+  font-family: 'Spectral', serif;
+  color: #4A4A4A;
+}
+
+/*.testimonial {
+  background-color: #9F6D7E;
+  padding: 30px;
+}
+
+input {
+  width: 300px;
+}

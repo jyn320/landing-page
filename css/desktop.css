@@ -1,0 +1,80 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #545454;
+}
+
+h1, h2, h3 {
+  font-family: 'Spectral', serif;
+  color: #4A4A4A;
+  text-align: center;
+}
+
+h6 {
+  font-family: 'Spectral', serif;
+  font-size: 32px;
+  font-style: normal;
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: white;
+}
+
+input {
+  width: 300px;
+}
+
+.navbar {
+  text-align: right;
+}
+
+.jumbotron{
+  background: url(img/Hero-Banner-Desktop.jpg) fixed center no-repeat;
+  background-size: cover;
+  height: 560px;
+  text-align: center;
+ }
+
+.btn {
+  background-color: #ECB9CA;
+  border: none;
+}
+
+.text-center {
+  padding: 40px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #FFF;
+    background-clip: border-box;
+    border-radius: .25rem;
+    padding: 20px;
+    border: none;
+
+.col-3 {
+    padding: 10px;
+}
+
+.testimonial {
+  background: url(../img/Testimonial-Bg.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.newsletter {
+  height: 300px;
+}
+
+.footer {
+  height: 150px;
+  background-color: gray;
+  color: white;
+  padding: 50px;
+  font-size: 30px;
+}
